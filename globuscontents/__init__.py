@@ -1,0 +1,1 @@
+from globuscontents.globus_contents_manager import GlobusContentsManager
