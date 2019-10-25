@@ -38,7 +38,7 @@ Various functionalities that are still in the process of being implemented and p
 * Currently the project is at a state where the GlobusContentsManager successfully runs in a Jupyter Notebook; however, much of the actual functionality (i.e., syncing with a Globus endpoint, making a new file/directory, etc.) is missing.
     * So far the main part of the code that has been confirmed as working is the Globus Login and Auth.
     * Most of the code has already been written; with testing, debugging, and refactoring the GlobusContentsManager should work properly.
-* This TODO has a high priority as it deals with the main purpose of the GlobusContentsManager.
+* This TODO has a **high priority** as it deals with the main purpose of the GlobusContentsManager.
 
 #### Converting Hard-Code to Config
 * Currently, all of the user-dependent variables (i.e., client_id, endpoint_id, etc.) are hard-coded since getting the Globus functionalit working is a higher priority.
